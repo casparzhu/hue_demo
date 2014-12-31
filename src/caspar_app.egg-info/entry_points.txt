@@ -1,0 +1,3 @@
+[desktop.sdk.application]
+caspar_app=caspar_app
+
